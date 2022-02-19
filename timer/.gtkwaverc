@@ -1,0 +1,60 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Feb 19 00:03:59 2022
+[*]
+[dumpfile] "/home/lucax/work/lib/timer/timer_tb.vcd"
+[dumpfile_mtime] "Fri Feb 18 23:21:21 2022"
+[dumpfile_size] 2927885
+[savefile] "/home/lucax/work/lib/timer/.gtkwaverc"
+[timestart] 0
+[size] 1920 1016
+[pos] -101 -101
+*-18.850000 3052000 454000 652000 851000 1052000 1252000 1353000 2654000 3052000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] timer_tb.
+[treeopen] timer_tb.timer_0.
+[sst_width] 48
+[signals_width] 486
+[sst_expanded] 0
+[sst_vpaned_height] 289
+@28
+timer_tb.timer_0.clk
+@22
+timer_tb.timer_0.config_address[3:0]
+@c00023
+timer_tb.timer_0.write_data[7:0]
+@28
+(0)timer_tb.timer_0.write_data[7:0]
+(1)timer_tb.timer_0.write_data[7:0]
+(2)timer_tb.timer_0.write_data[7:0]
+(3)timer_tb.timer_0.write_data[7:0]
+(4)timer_tb.timer_0.write_data[7:0]
+(5)timer_tb.timer_0.write_data[7:0]
+(6)timer_tb.timer_0.write_data[7:0]
+(7)timer_tb.timer_0.write_data[7:0]
+@1401203
+-group_end
+@22
+timer_tb.timer_0.read_data[7:0]
+@28
+timer_tb.timer_0.start
+@22
+timer_tb.timer_0.count_max[7:0]
+timer_tb.timer_0.count_min[7:0]
+@c00022
+timer_tb.timer_0.count[7:0]
+@28
+(0)timer_tb.timer_0.count[7:0]
+(1)timer_tb.timer_0.count[7:0]
+(2)timer_tb.timer_0.count[7:0]
+(3)timer_tb.timer_0.count[7:0]
+(4)timer_tb.timer_0.count[7:0]
+(5)timer_tb.timer_0.count[7:0]
+(6)timer_tb.timer_0.count[7:0]
+(7)timer_tb.timer_0.count[7:0]
+@1401200
+-group_end
+@28
+timer_tb.timer_0.cmp_1_match
+timer_tb.timer_0.count_mode
+[pattern_trace] 1
+[pattern_trace] 0
