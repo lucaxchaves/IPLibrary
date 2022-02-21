@@ -1,0 +1,52 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Feb 21 03:20:25 2022
+[*]
+[dumpfile] "/home/lucax/work/lib/spi/spi_tb.vcd"
+[dumpfile_mtime] "Mon Feb 21 03:12:55 2022"
+[dumpfile_size] 54462
+[savefile] "/home/lucax/work/lib/spi/.gtkwaverc"
+[timestart] 0
+[size] 3840 2096
+[pos] -1 -1
+*-18.616629 1280000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] spi_tb.
+[treeopen] spi_tb.spi_0.
+[treeopen] spi_tb.spi_0.i_spi_clock_generator.
+[treeopen] spi_tb.spi_1.
+[sst_width] 233
+[signals_width] 413
+[sst_expanded] 1
+[sst_vpaned_height] 665
+@28
+spi_tb.clk
+spi_tb.rst
+spi_tb.spi_0.enable
+spi_tb.spi_0.write_enable
+spi_tb.spi_0.address[1:0]
+@22
+spi_tb.spi_0.write_data[7:0]
+spi_tb.spi_0.read_data[7:0]
+@28
+spi_tb.spi_0.sdi
+spi_tb.spi_0.sdo
+spi_tb.spi_0.sclk_o
+spi_tb.spi_0.cs_o
+spi_tb.spi_0.done_int
+spi_tb.spi_1.enable
+spi_tb.spi_1.write_enable
+spi_tb.spi_1.address[1:0]
+@22
+spi_tb.spi_1.write_data[7:0]
+spi_tb.spi_1.read_data[7:0]
+@28
+spi_tb.spi_1.sdi
+spi_tb.spi_1.sdo
+spi_tb.spi_1.sclk_i
+spi_tb.spi_1.cs_i
+@29
+spi_tb.spi_1.done_int
+[pattern_trace] 1
+[pattern_trace] 0
+fontname_signals Monospace 30
+use_big_fonts 1
